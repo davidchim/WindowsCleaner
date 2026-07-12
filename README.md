@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> 
+> ### 🥳 作者开发的多功能图片工具箱[PhotoStudio 3](https://dps.dyblog.online/)正式上线啦！
+
 <div align=center>
 <img src="logo.png" width="150" height="150">
 
