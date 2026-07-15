@@ -1,3 +1,8 @@
+> [!WARNING]  
+> **WindowsCleaner 正在使用 Rust + Tauri 进行全面重构（v2）。**  
+> 当前 `main` 分支为稳定旧版（Python + PyQt5），旧版仍可正常使用但不再新增功能。  
+> 查看或参与新版本开发请切换到 [`v2`](https://github.com/darkmatter2048/WindowsCleaner/tree/v2) 分支。
+
 > [!IMPORTANT]  
 > 
 > ### 🥳 作者开发的多功能图片工具箱[PhotoStudio 3](https://dps.dyblog.online/)正式上线啦！
